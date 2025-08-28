@@ -1,6 +1,8 @@
-# Tarea-2
+<img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/d30119ce-940d-4295-9ba7-16890b7ed6fb" /># Tarea-2
 Tipos de Computacion , Computadores, Ordenadores y Arquitecturas 
 <img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/e898bbf7-4939-4f4a-85a3-11f7d7716c9f" />
 <img width="1960" height="1103" alt="image" src="https://github.com/user-attachments/assets/84105c46-9c2d-4d48-ac9d-4333a4535c18" />
-![Uploading image.png…]()
+<img width="640" height="259" alt="image" src="https://github.com/user-attachments/assets/40b1d059-cb64-46ac-b25d-873afa4b2b51" />
+
+
 
